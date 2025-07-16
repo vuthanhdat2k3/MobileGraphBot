@@ -1,0 +1,9 @@
+langchain_community
+langchain
+langchain_text_splitters
+langchain_openai
+langgraph
+openai
+faiss-cpu
+gradio
+neo4j

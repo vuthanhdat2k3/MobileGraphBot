@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environment
+venv/
+ENV/
+.env/
+.venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Data files
+*.csv
+*.tsv
+*.xls
+*.xlsx
+*.json
+*.db
+*.sqlite3
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Cypher generated files
+neo4j_entities.cypher
+neo4j_relationships.cypher
+neo4j_relationships_filtered.cypher
+
+# Others
+*.bak
+*.tmp
+*.swp
+*.swo 
